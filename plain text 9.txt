@@ -1,0 +1,135 @@
+Nama Karakter,Jenis Kelamin,Warna Lightsaber,Senjata Ikonik,Lokasi Asal,Spesies Karakter,Kepribadian,Keahlian
+Yoda,Laki-laki,Hijau,Lightsaber,Dagobah,Yoda,Bijaksana,Penguasaan Force
+Luke Skywalker,Laki-laki,Biru,Lightsaber,Tatooine,Manusia,Pemberani,Penguasaan Force
+Leia Organa,Perempuan,Tidak ada,Blaster,Alderaan,Manusia,Tegas,Diplomasi
+Han Solo,Laki-laki,Tidak ada,Blaster,Corellia,Manusia,Licik,Pilot
+Chewbacca,Laki-laki,Tidak ada,Bowcaster,Kashyyyk,Wookiee,Setia,Keterampilan Tempur
+C-3PO,Tidak diketahui,Tidak ada,Tidak ada,Tatooine,Protocol Droid,Bijaksana,Terjemahan
+R2-D2,Tidak diketahui,Tidak ada,Tidak ada,Naboo,Astromech Droid,Setia,Perbaikan
+Boba Fett,Laki-laki,Tidak ada,Blaster,Kamino,Manusia,Licik,Perburuan Hadiah
+Darth Vader,Laki-laki,Merah,Lightsaber,Tatooine,Manusia,Kejam,Penguasaan Force
+Obi-Wan Kenobi,Laki-laki,Biru,Lightsaber,Stewjon,Manusia,Bijaksana,Penguasaan Force
+Ahsoka Tano,Perempuan,Oranye,Lightsaber,Shili,Togruta,Pemberani,Penguasaan Force
+Darth Maul,Laki-laki,Merah,Lightsaber,Dathomir,Zabrak,Kejam,Keterampilan Pedang
+Qui-Gon Jinn,Laki-laki,Hijau,Lightsaber,Coruscant,Manusia,Bijaksana,Penguasaan Force
+Mace Windu,Laki-laki,Ungu,Lightsaber,Haruun Kal,Manusia,Bijaksana,Penguasaan Force
+Palpatine,Laki-laki,Ungu,Lightsaber,Naboo,Manusia,Licik,Manipulasi Force
+Yaddle,Perempuan,Hijau,Lightsaber,Unknown,Yodaâ€™s species,Bijaksana,Penguasaan Force
+Darth Sidious,Laki-laki,Ungu,Lightsaber,Naboo,Manusia,Licik,Penguasaan Force
+Lando Calrissian,Laki-laki,Tidak ada,Blaster,Bespin,Manusia,Licik,Pilot
+Maz Kanata,Perempuan,Tidak ada,Tidak ada,Takodana,Unknown,Bijaksana,Kebijaksanaan
+Wicket W. Warrick,Laki-laki,Tidak ada,Spear,Endor,Ewok,Pemberani,Perang Gerilya
+Poe Dameron,Laki-laki,Tidak ada,Blaster,Yavin 4,Manusia,Berani,Pilot
+Luminara Unduli,Perempuan,Hijau,Lightsaber,Mirial,Mirialan,Bijaksana,Penguasaan Force
+Darth Nihilus,Laki-laki,Merah,Lightsaber,Unknown,Human,Kejam,Penguasaan Force
+General Hux,Laki-laki,Tidak ada,Blaster,Unknown,Manusia,Kejam,Strategi Perang
+Captain Phasma,Perempuan,Tidak ada,Blaster,Parnassos,Manusia,Kejam,Strategi Militer
+Fenn Rau,Laki-laki,Tidak ada,Blaster,Concord Dawn,Mandalorian,Bijaksana,Strategi Tempur
+Darth Bane,Laki-laki,Merah,Lightsaber,Unknown,Human,Licik,Penguasaan Force
+Zeb Orrelios,Laki-laki,Tidak ada,Lasat bo-rifle,Lasan,Lasat,Berani,Keterampilan Tempur
+Aayla Secura,Perempuan,Biru,Lightsaber,Ryloth,Twi'lek,Bijaksana,Penguasaan Force
+Jyn Erso,Perempuan,Tidak ada,Blaster,Lothal,Manusia,Pemberani,Kepemimpinan
+Kanan Jarrus,Laki-laki,Hijau,Lightsaber,Lothal,Manusia,Bijaksana,Penguasaan Force
+Chirrut ÃŽmwe,Laki-laki,Tidak ada,Tidak ada,Jedha,Blind,Bijaksana,Penguasaan Force
+Baze Malbus,Laki-laki,Tidak ada,Blaster,Jedha,Manusia,Setia,Keterampilan Tempur
+K-2SO,Tidak diketahui,Tidak ada,Tidak ada,Unknown,KX-series Droid,Setia,Teknologi
+Saw Gerrera,Laki-laki,Tidak ada,Blaster,Onderon,Manusia,Kejam,Taktik Perang
+Rex,Laki-laki,Tidak ada,Blaster,Kamino,Klon,Setia,Keterampilan Tempur
+Poggle the Lesser,Laki-laki,Tidak ada,Tidak ada,Geonosis,Geonosian,Licik,Strategi Perang
+Nien Nunb,Laki-laki,Tidak ada,Blaster,Sullust,Sullustan,Setia,Pilot
+Wilhuff Tarkin,Laki-laki,Tidak ada,Tidak ada,Eriadu,Manusia,Kejam,Strategi Perang
+Mon Mothma,Perempuan,Tidak ada,Tidak ada,Chandrila,Manusia,Bijaksana,Diplomasi
+Bail Prestor Organa,Laki-laki,Tidak ada,Tidak ada,Alderaan,Manusia,Bijaksana,Diplomasi
+Crix Madine,Laki-laki,Tidak ada,Blaster,Unknown,Manusia,Setia,Kepemimpinan
+Lobot,Laki-laki,Tidak ada,Tidak ada,Bespin,Manusia,Tenang,Teknologi
+Zorii Bliss,Perempuan,Tidak ada,Blaster,Kijimi,Manusia,Licik,Pilot
+Finn,Laki-laki,Tidak ada,Blaster,Unknown,Manusia,Pemberani,Perjuangan
+Rose Tico,Perempuan,Tidak ada,Blaster,Hays Minor,Manusia,Bijaksana,Teknologi
+Snoke,Laki-laki,Tidak ada,Tidak ada,Unknown,Unknown,Licik,Penguasaan Force
+Kylo Ren,Laki-laki,Merah,Lightsaber,Unknown,Manusia,Licik,Penguasaan Force
+General Leia Organa,Perempuan,Tidak ada,Blaster,Alderaan,Manusia,Bijaksana,Kepemimpinan
+The Mandalorian (Din Djarin),Laki-laki,Tidak ada,Blaster,Unknown,Mandalorian,Tegas,Kepemimpinan
+Grogu (Baby Yoda),Tidak diketahui,Tidak ada,Tidak ada,Unknown,Yodaâ€™s species,Bijaksana,Penguasaan Force
+Bo-Katan Kryze,Perempuan,Tidak ada,Blaster,Mandalore,Mandalorian,Berani,Kepemimpinan
+Ahsoka Tano (Rebel),Perempuan,Oranye,Lightsaber,Shili,Togruta,Pemberani,Penguasaan Force
+Garazeb "Zeb" Orrelios,Laki-laki,Tidak ada,Lasat bo rifle,Lasan,Lasat,Berani,Keterampilan Tempur
+Lando Calrissian (Solo),Laki-laki,Tidak ada,Blaster,Corellia,Manusia,Licik,Pilot
+Salacious B. Crumb,Tidak diketahui,Tidak ada,Tidak ada,Tatooine,Kowakian Monkey-Lizard,Ceria,Humoris
+Rancor,Tidak diketahui,Tidak ada,Tidak ada,Tatooine,Rancor,Kejam,Keterampilan Bertarung
+Nien Nunb,Laki-laki,Tidak ada,Blaster,Sullust,Sullustan,Setia,Pilot
+Max Rebo,Tidak diketahui,Tidak ada,Tidak ada,Tatooine,Ortolan,Ceria,Musik
+Biggs Darklighter,Laki-laki,Tidak ada,Blaster,Tatooine,Manusia,Pemberani,Pilot
+Wedge Antilles,Laki-laki,Tidak ada,Blaster,Corellia,Manusia,Pemberani,Pilot
+Talon Karrde,Laki-laki,Tidak ada,Blaster,Unknown,Manusia,Licik,Perdagangan
+Wedge Antilles,Laki-laki,Tidak ada,Blaster,Corellia,Manusia,Pemberani,Pilot
+Biggs Darklighter,Laki-laki,Tidak ada,Blaster,Tatooine,Manusia,Pemberani,Pilot
+Admiral Ackbar,Laki-laki,Tidak ada,Tidak ada,Mon Cala,Mon Calamari,Bijaksana,Strategi Perang
+Rex,Laki-laki,Tidak ada,Blaster,Kamino,Klon,Setia,Keterampilan Tempur
+Crix Madine,Laki-laki,Tidak ada,Blaster,Unknown,Manusia,Setia,Kepemimpinan
+Zorii Bliss,Perempuan,Tidak ada,Blaster,Kijimi,Manusia,Licik,Pilot
+Finn,Laki-laki,Tidak ada,Blaster,Unknown,Manusia,Pemberani,Perjuangan
+Saw Gerrera,Laki-laki,Tidak ada,Blaster,Onderon,Manusia,Pemberani,Taktik Perang
+Bo-Katan Kryze,Perempuan,Tidak ada,Blaster,Mandalore,Mandalorian,Bijaksana,Kepemimpinan
+Chirrut ÃŽmwe,Laki-laki,Tidak ada,Tidak ada,Jedha,Blind,Setia,Penguasaan Force
+Baze Malbus,Laki-laki,Tidak ada,Blaster,Jedha,Manusia,Licik,Keterampilan tempur
+K-2SO,Tidak diketahui,Tidak ada,Tidak ada,Unknown,KX-series droid,Kejam,Teknologi
+Poe Dameron,Laki-laki,Tidak ada,Blaster,Yavin 4,Manusia,Pemberani,Pilot
+Rose Tico,Perempuan,Tidak ada,Blaster,Hays Minor,Manusia,Pemberani,Teknologi
+Snoke,Laki-laki,Tidak ada,Tidak ada,Unknown,Unknown,Bijaksana,Penguasaan Force
+Kylo Ren,Laki-laki,Merah,Lightsaber,Unknown,Manusia,Licik,Penguasaan Force
+Darth Vader,Laki-laki,Merah,Lightsaber,Tatooine,Manusia,Pemberani,Penguasaan Force
+Jyn Erso,Perempuan,Tidak ada,Blaster,Lothal,Manusia,Cerdas,Kepemimpinan
+Ahsoka Tano (Clone Wars),Perempuan,Oranye,Lightsaber,Shili,Togruta,Diplomatik,Penguasaan Force
+Luminara Unduli,Perempuan,Hijau,Lightsaber,Mirial,Mirialan,Bijaksana,Penguasaan Force
+Jabba the Hutt,Laki-laki,Tidak ada,Tidak ada,Tatooine,Hutt,Pintar,Kejahatan
+Biggs Darklighter,Laki-laki,Tidak ada,Blaster,Tatooine,Manusia,Kejam,Pilot
+Anakin Skywalker,Laki-laki,Biru,Lightsaber,Tatooine,Manusia,Menarik,Pertempuran lightsaber
+PadmÃ© Amidala,Perempuan,Tidak ada lightsaber,Tidak ada ,Naboo,Manusia,Tangguh,Diplomasi
+Qui-Gon Jinn,Laki-laki,Hijau,Lightsaber,Coruscant,Manusia,Berani,Bela diri
+Count Dooku,Laki-laki,Merah,Lightsaber,Serenno,Manusia,Berani,Strategi
+Grievous,Laki-laki,Merah,Lightsaber,Kalee,Cyborg,Tegas,Pertempuran
+Lando Calrissian,Laki-laki,Tidak ada lightsaber,Blaster,Lando Calrissian,Manusia,Setia,Taktik
+Boba Fett,Laki-laki,Tidak ada lightsaber,Blaster,Kamino,Manusia,Sabar,Menggunakan senjata api
+Rey Skywalker,Perempuan,Kuning,Blaster,Jakku,Manusia,Setia,Menggunakan lightsaber
+Finn,Laki-laki,Biru,Blaster,Jakku,Manusia,Setia,Strategi militer
+Han Solo,Laki-laki,Tidak ada lightsaber,Blaster,Corellia,Manusia,Bijaksana,Lightsaber
+Leia Organa,Perempuan,Biru,Blaster,Alderaan,Wookiee,Bijaksana,Lightsaber
+Yoda,Laki-laki,Hijau,Lightsaber,Dagobah,Manusia,Tangguh,Bela diri
+Obi-Wan Kenobi,Laki-laki,Biru,Lightsaber,Stewjon,Manusia,Berani,Lightsaber
+Darth Maul,Laki-laki,Merah (dua sisi),Lightsaber,Iridonia,Manusia,Sabar,Seni bela diri
+Mace Windu,Laki-laki,Ungu,Lightsaber,Naboo,Zabrak,Cerdas,Menggunakan lightsaber
+Jar Jar Binks,Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Naboo,Manusia,Setia,Penguasaan Force
+Zeb Orrelios,Laki-laki,Tidak ada lightsaber,Blaster,Lothal,Manusia,Berani,Strategi
+Wilhuff Tarkin,Laki-laki,Tidak ada lightsaber,Blaster,Alderaan,Gungan,Cerdas,Bertarung
+C-3PO,Laki-laki,Tidak ada lightsaber,Blaster,Tatooine,Twi'lek,Setia,Diplomasi
+R2-D2,Laki-laki,Tidak ada lightsaber,Lightsaber,R2-D2,Twi'lek,Berani,Strategi militer
+Rex,Laki-laki,Tidak ada lightsaber,Blaster,Lothal,Droid,Setia,Menggunakan lightsaber
+Aayla Secura,Perempuan,Biru,Blaster,Jedha,Droid,Berani,Navigasi
+Poe Dameron,Laki-laki,Tidak ada lightsaber,Blaster,Naboo,Clawdite,Cerdas,Pengawasan
+Chirrut ÃŽmwe,Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Cantonica,Twi'lek,Sabar,Analisis
+Mon Mothma,Perempuan,Tidak ada lightsaber,Lightsaber,Lothal,Manusia,Jujur,Pertarungan fisik
+Luminara Unduli,Perempuan,Hijau,Blaster,Mandalore,Manusia,Berani,Kepemimpinan
+Jyn Erso,Perempuan,Tidak ada lightsaber,Lightsaber,Tatooine,Manusia,Pemberani,Menggunakan Force
+Kylo Ren,Laki-laki,Merah,Lightsaber,Mandalore,Manusia,Pemalu,Taktik pertempuran
+Snoke,Laki-laki,Tidak ada lightsaber,Lightsaber,Mandalore,Mandalorian,Bijaksana,Bernegosiasi
+Saw Gerrera,Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Mandalore,Mandalorian,Berani,Pertempuran
+General Hux,Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Mandalore,Mandalorian,Karismatik,Analisis teknologi
+Captain Phasma,Perempuan,Tidak ada lightsaber,Blaster,Tatooine,Mandalorian,Karismatik,Merencanakan serangan
+Maz Kanata,Perempuan,Tidak ada lightsaber,Lightsaber,Naboo,Mandalorian,Karismatik,Menggunakan lightsaber
+The Mandalorian (Din Djarin),Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Endor,Manusia,Cerdas,Analisis situasi
+Grogu (Baby Yoda),Tidak diketahui,Hijau,Lightsaber,Naboo,Hutt,Ceria,Menggunakan lightsaber
+Darth Sidious,Laki-laki,Merah,Lightsaber,Tatooine,Manusia,Kejam,Strategi pertempuran
+Salacious B. Crumb,Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Kamino,Manusia,Setia,Bertahan hidup
+Boba Fett,Laki-laki,Tidak ada lightsaber,Lightsaber,Kashyyyk,Manusia,Cerdas,Menggunakan senjata
+General Leia Organa,Perempuan,Biru,Tidak ada senjata ikonik,Coruscant,Ewok,Serius,Seni bertarung
+Talon Karrde,Laki-laki,Tidak ada lightsaber,Blaster,Naboo,Hutt,Penuh kasih sayang,Menggunakan lightsaber
+Bail Prestor Organa,Laki-laki,Tidak ada lightsaber,Lightsaber,Endor,Manusia,Berani,Memanipulasi
+Biggs Darklighter,Laki-laki,Biru,Tidak ada senjata ikonik,Coruscant,Manusia,Berani,Bertarung
+Wedge Antilles,Laki-laki,Biru,Lightsaber,Tatooine,Manusia,Setia,Strategi
+Rancor,Tidak diketahui,Tidak ada lightsaber,Tidak ada senjata ikonik,Naboo,Wookiee,Setia,Bertahan hidup
+Lobot,Laki-laki,Tidak ada lightsaber,Blaster,Naboo,Manusia,Humoris,Bertarung
+Poggle the Lesser,Laki-laki,Tidak ada lightsaber,Tidak ada senjata ikonik,Mustafar,Manusia,Karismatik,Menggunakan senjata
+Zorii Bliss,Perempuan,Tidak ada lightsaber,Lightsaber,Endor,Ewok,Tenang,Memimpin
+Fenn Rau,Laki-laki,Tidak ada lightsaber,Blaster,Tatooine,Manusia,Humoris,Bertarung
+Darth Bane,Laki-laki,Merah,Lightsaber,Corellia,Manusia,Berani,Bertarung
+Ahsoka Tano,Perempuan,Putih (saat menjadi Ahsoka Tano yang baru),Lightsaber,Naboo,Hutt,Kejam,Bertahan hidup
